@@ -14,3 +14,46 @@ and me for funni uhhhh database thingy.
 - maybe based on an older version so some things may not work but who knows maybe the people who originally made it or whatever
 - chat based yeah ok
 - idk what else to put here
+## stuff (may add more when i get latest version)
+```lua
+--commands:
+--[[
+;trip [person]
+;sit [person]
+;jork [person]
+;unjork [person]
+;walkspeed [person] [number]
+;ws [person] [number]
+;jumppower [person] [number]
+;jp [person] [number]
+;gravity [person] [number]
+;grav [person] [number]
+;say [person] [text]
+;kill [person]
+;jump [person]
+;fling [person]
+;tocf [person] [x,y,z] or [x y z]
+;duck [person]
+;maxfps [person] [number]
+;hipheight [person] [number]
+;hh [person] [number]
+;to [person]
+;bring [person]
+;friend [person] [person]
+;fov [person] [number]
+;freeze [person]
+;thaw [person]
+;explode [person] [number]
+;exp [person] [number]
+;smoke [person]
+;fire [person]
+;wake [person]
+;exe [person] [pastebin]
+;execute [person] [pastebin]
+]]
+
+--people:
+--[[
+me, [other person], all, others, .
+]]
+```
