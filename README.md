@@ -5,7 +5,7 @@ The obfuscated code is not malicious at all and will never be.
 ## Credits:
 I think:
 cat guy that goes by isteallivers/ieatlivers or whatever.
-furry caer guy idk i forgot.
+furry ca3r guy idk i forgot. (not sure if he worked on it with him but add him because whatever)
 and me for funni uhhhh database thingy.
 ## Features
 - tons of commands yeah
