@@ -4,9 +4,9 @@ The obfuscated part is basically a module to add you to an api database temporar
 The obfuscated code is not malicious at all and will never be.
 ## Credits:
 I think:
-cat guy that goes by isteallivers/ieatlivers or whatever
-furry caer guy idk i forgot
-and me for funni uhhhh database thingy
+cat guy that goes by isteallivers/ieatlivers or whatever.
+furry caer guy idk i forgot.
+and me for funni uhhhh database thingy.
 ## Features
 - tons of commands yeah
 - uhhhhhh database thingy that removes you when you leave i guess
