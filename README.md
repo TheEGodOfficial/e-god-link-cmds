@@ -2,6 +2,10 @@
 Coolest command script thats FE to other script users!!!
 The obfuscated part is basically a module to add you to an api database temporarily so it is FE to the people who are in that database and is using the script.
 The obfuscated code is not malicious at all and will never be.
+## Script:
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TheEGodOfficial/e-god-link-cmds/refs/heads/main/actual-stuff/source.luau"))()
+```
 ## Credits:
 I think:
 cat guy that goes by isteallivers/ieatlivers or whatever.
